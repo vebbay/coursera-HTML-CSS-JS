@@ -123,8 +123,11 @@ h1 {
 /******Small Screens*******/
 @media (max-width: 767px) {
   	
+  	.menu-container {
+		padding: 10px 100px;
+  	}
+
   	.sushi, .chicken, .beef{
     	width: 100%;
-    	padding: 10px 100px;
     }
 }
